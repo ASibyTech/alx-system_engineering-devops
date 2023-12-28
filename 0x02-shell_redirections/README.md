@@ -1,1 +1,1 @@
-my readmy
+my shell redirection
